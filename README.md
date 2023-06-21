@@ -1,4 +1,4 @@
-This is The Project Created Under GRIP Rotational Internship Program 2023
+This are the Projects Created Under GRIP Rotational Internship Program 2023 : 
 
 There are 2 tasks in this repo : 
 1) Prediction using Supervised Learning : used Linear regression to predict score based on the study Hours.
